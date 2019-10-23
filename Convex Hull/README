@@ -1,0 +1,7 @@
+PROJECT 2 CONVEX HULLS
+
+Place any .txt files for input in this directory.
+
+Any generated files will also be placed in this directory.
+
+make clean will remove all .txt files, as well as all .o files created upon compiliation and the executable.
